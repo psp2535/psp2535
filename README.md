@@ -15,12 +15,17 @@
 
 ---
 
-### ⚡ Roles & Expertise
-- 🚀 **MERN Developer**
-- 💻 **Full Stack Developer**
-- 🌍 **Freelancer**
-- ⚡ **Coder**
-- 🌐 **Open Source Contributor**
+### ⚡ My Expertise
+
+I am a passionate **Developer** and **Community Contributor** dedicated to building high-quality software solutions.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-MERN%20Developer-3B82F6?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-3B82F6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Freelancer-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Coder-3B82F6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
