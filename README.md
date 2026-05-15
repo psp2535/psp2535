@@ -15,12 +15,12 @@
 
 ---
 
-### ⚡ Summary
-I am a passionate **Full-Stack Developer** specializing in the MERN stack and AI-powered applications. I thrive on solving complex problems and building user-centric software that makes an impact.
-
-- 🎓 Integrated B.Tech + M.Tech in IT at **ABV-IIITM Gwalior**
-- 🚀 Currently focused on **AI Business Intelligence** and **Scalable Architectures**
-- 🛠️ Expert in **MERN Stack**, **Cloud Deployment**, and **API Integration**
+### ⚡ Roles & Expertise
+- 🚀 **MERN Developer**
+- 💻 **Full Stack Developer**
+- 🌍 **Freelancer**
+- ⚡ **Coder**
+- 🌐 **Open Source Contributor**
 
 ---
 
