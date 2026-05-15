@@ -26,6 +26,10 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
   <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Gifs/Coding-Vibe.gif" width="100%" alt="Coding Animation" />
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
