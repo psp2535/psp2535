@@ -65,6 +65,8 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
       </td>
     </tr>
   </table>
+  <br>
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </div>
 
 ---
