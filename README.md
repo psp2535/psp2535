@@ -1,14 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=200&section=header" width="100%" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Pathange+Sai+Pranav" alt="Animated Name" />
-  </a>
-
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=250&section=header&text=Pathange%20Sai%20Pranav&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9B2C3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Powered+App+Builder;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Developer;Full+Stack+Developer;Freelancer;Coder;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <p align="center">
