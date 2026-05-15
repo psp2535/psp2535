@@ -5,8 +5,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Web+Developer;🤖+AI-Powered+Application+Architect;💻+MERN+Stack+Specialist;🏆+Hackathon+Winner+&+Open-Source+Contributor" alt="Typing Animation" />
   </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=psp2535&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
 </div>
 
 <!-- About Section -->
@@ -76,20 +74,15 @@
   </a>
   <br><br>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=psp2535&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psp2535&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="Top Languages" width="48%" />
-  </div>
-  <br><br>
-  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=psp2535&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" width="48%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psp2535&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
   </div>
   <br><br>
   <h3>🐍 Contributions in the Last Year</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psp2535/psp2535/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psp2535/psp2535/output/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/psp2535/psp2535/output/dist/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psp2535/psp2535/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psp2535/psp2535/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/psp2535/psp2535/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
