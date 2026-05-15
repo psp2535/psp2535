@@ -5,6 +5,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Web+Developer;🤖+AI-Powered+Application+Architect;💻+MERN+Stack+Specialist;🏆+Hackathon+Winner+&+Open-Source+Contributor" alt="Typing Animation" />
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=psp2535&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
 </div>
 
 <!-- About Section -->
@@ -67,14 +69,20 @@
 
 <!-- Stats Section -->
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
+  <h3>📊 GitHub Analytics & Trophies</h3>
   <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=psp2535&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+  <br><br>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=psp2535&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=psp2535&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psp2535&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="Top Languages" width="48%" />
   </div>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psp2535&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=3b82f6" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psp2535&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psp2535&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <br>
@@ -112,24 +120,16 @@
 
 <!-- Achievements & CP -->
 <div align="center">
-  <table width="100%" bordercolor="#30363d">
+  <h3>🏆 Achievements</h3>
+  <table bordercolor="#30363d">
     <tr>
-      <td width="50%" valign="top" align="left">
-        <h3 align="center">🏆 Achievements</h3>
+      <td valign="top" align="left">
         <ul>
           <li>🥇 <b>Winner</b>, AI for All Hackathon 2026</li>
           <li>🌟 <b>Top Performer</b>, HACKSAGON 2026 (out of 2600+ teams)</li>
           <li>🚀 <b>Finalist</b>, OpenAI x Nxtwave Buildathon 2025</li>
           <li>📈 <b>CodeFest'25</b>, Rank 1578</li>
           <li>🌐 <b>SSOC 2025</b>, Open Source Contributor</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top" align="left">
-        <h3 align="center">🧠 Competitive Programming</h3>
-        <ul>
-          <li>💡 Solved <b>300+</b> DSA problems across platforms</li>
-          <li>⚡ Active participant on <b>LeetCode</b> & <b>CodeChef</b></li>
-          <li>🎯 Consistently improving problem-solving logic and algorithm optimization</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@
 <div align="center">
   <h3>🔗 Connect With Me & Resume</h3>
   <br>
-  <a href="https://portfolio-psp.vercel.app/">
+  <a href="https://portfolio-psp.vercel.app/2023IMT056-PSP.pdf">
     <img src="https://img.shields.io/badge/📄_View_Resume-3B82F6?style=for-the-badge&logoColor=white" alt="Resume" />
   </a>
   <a href="https://portfolio-psp.vercel.app/">
@@ -150,9 +150,6 @@
   </a>
   <a href="https://linkedin.com/in/pathangesaipranav">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/psp2535">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
