@@ -1,19 +1,24 @@
 <!-- Hero Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=250&section=header&text=Pathange%20Sai%20Pranav&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Background" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=300&section=header&text=Pathange%20Sai%20Pranav&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20the%20future%20of%20the%20web,%20one%20line%20of%20code%20at%20a%20time.&descSize=22&descAlignY=55" width="100%" alt="Header Background" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI-Powered+App+Builder;MERN+Stack+Specialist;Problem+Solver" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Web+Developer;🤖+AI-Powered+Application+Architect;💻+MERN+Stack+Specialist;🏆+Hackathon+Winner+&+Open-Source+Contributor" alt="Typing Animation" />
   </a>
 </div>
 
 <!-- About Section -->
 <div align="center">
   <h3>⚡ About Me</h3>
-  <p>
-    Passionate <b>Full-Stack Developer</b> focused on the MERN Stack, AI-powered applications, and solving complex problems.<br>
-    🎓 Integrated B.Tech + M.Tech in Information Technology at <b>ABV-IIITM Gwalior</b>.<br>
-    🚀 Always learning, building, and contributing to the tech community.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&pause=1000&color=A9B2C3&center=true&vCenter=true&width=600&lines=Architecting+scalable+MERN+applications.;Integrating+AI+to+solve+real-world+problems.;Writing+clean,+efficient,+and+maintainable+code." alt="Sub-typing" />
+  <br>
+  <p align="center">
+    I am a <b>Full-Stack Developer</b> specializing in the MERN stack with a deep interest in <b>AI-powered solutions</b>. Currently pursuing my Integrated B.Tech + M.Tech in IT at <b>ABV-IIITM Gwalior</b>, I thrive on turning complex problems into elegant, user-centric software.
+  </p>
+  <p align="center">
+    🌱 <b>Currently Exploring:</b> Advanced System Design & GenAI<br>
+    🎯 <b>Current Focus:</b> Building impactful open-source tools & scalable architectures<br>
+    🤝 <b>Open for:</b> Collaborations, Hackathons, and SDE Roles
   </p>
 </div>
 
@@ -22,9 +27,40 @@
 <!-- Tech Stack -->
 <div align="center">
   <h3>🛠️ Tech Stack & Skills</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,postgres,mysql,tailwind,aws,git,github&perline=7&theme=dark" alt="Skill Icons" />
-  </a>
+  <br>
+  <table bordercolor="#30363d">
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <h4>💻 Programming Languages</h4>
+        <img src="https://skillicons.dev/icons?i=cpp,python,js&perline=3&theme=dark" />
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h4>🎨 Frontend Technologies</h4>
+        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=5&theme=dark" />
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h4>⚙️ Backend Technologies</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=dark" />
+        <br><br>
+        <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=flat-square&logo=json&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <h4>🗄️ Databases</h4>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=3&theme=dark" />
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h4>☁️ Cloud & Deployment</h4>
+        <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare&perline=3&theme=dark" />
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h4>🔧 Developer Tools</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,prisma&perline=4&theme=dark" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
