@@ -46,7 +46,10 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
 
 <div align="center">
   <h3>📊 GitHub Activity Dashboard</h3>
-  <br>
+  
+  <img src="https://raw.githubusercontent.com/psp2535/psp2535/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
+  
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=psp2535&theme=tokyonight&no-frame=true&no-bg=true" width="100%" alt="GitHub Trophies" />
   <br><br>
   <table border="0">
@@ -59,6 +62,8 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
       </td>
     </tr>
   </table>
+  <br>
+  <img src="./github-metrics.svg" width="100%" alt="Activity Radar" />
 </div>
 
 ---
