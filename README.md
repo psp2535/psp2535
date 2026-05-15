@@ -104,8 +104,11 @@
 
 <!-- Connect -->
 <div align="center">
-  <h3>🔗 Connect With Me</h3>
+  <h3>🔗 Connect With Me & Resume</h3>
   <br>
+  <a href="https://portfolio-psp.vercel.app/">
+    <img src="https://img.shields.io/badge/📄_View_Resume-3B82F6?style=for-the-badge&logoColor=white" alt="Resume" />
+  </a>
   <a href="https://portfolio-psp.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
