@@ -6,6 +6,10 @@
   </a>
 
   <p align="center">
+    <i>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</i>
+  </p>
+
+  <p align="center">
     <a href="https://linkedin.com/in/pathangesaipranav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://portfolio-psp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%233b82f6.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://github.com/psp2535"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
