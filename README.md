@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=250&section=header&text=Hi!%20I'm%20Pathange%20Sai%20Pranav&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=250&section=header&text=Hi!%20I'm%20Pathange%20Sai%20Pranav%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Developer;Full+Stack+Developer;Freelancer;Coder;Open+Source+Contributor" alt="Typing SVG" />
@@ -63,7 +63,7 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
     </tr>
   </table>
   <br>
-  <img src="https://metrics.lecoq.io/psp2535?template=classic&base=activity&config.timezone=Asia%2FKolkata" width="100%" alt="Activity Radar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psp2535&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" width="100%" alt="Activity Graph" />
 </div>
 
 ---
