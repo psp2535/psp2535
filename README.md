@@ -63,7 +63,7 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
     </tr>
   </table>
   <br>
-  <img src="./github-metrics.svg" width="100%" alt="Activity Radar" />
+  <img src="https://metrics.lecoq.io/psp2535?template=classic&base=activity&config.timezone=Asia%2FKolkata" width="100%" alt="Activity Radar" />
 </div>
 
 ---
