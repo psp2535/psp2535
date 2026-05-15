@@ -17,10 +17,9 @@
 
 ### ⚡ My Expertise
 
-I am a passionate **Developer** and **Community Contributor** dedicated to building high-quality software solutions.
+I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a focus on creating high-performance web applications and automating complex workflows. I thrive on turning ideas into scalable, user-centric software solutions that solve real-world problems.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-MERN%20Developer-3B82F6?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-3B82F6?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Freelancer-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/-Coder-3B82F6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
