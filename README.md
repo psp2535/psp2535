@@ -1,11 +1,17 @@
-# Pathange Sai Pranav 👋
-**Full-Stack Developer | AI Enthusiast | Integrated M.Tech @ ABV-IIITM Gwalior**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=250&section=header&text=Pathange%20Sai%20Pranav&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<p align="left">
-  <a href="https://linkedin.com/in/pathangesaipranav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-psp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%233b82f6.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://portfolio-psp.vercel.app/2023IMT056-PSP.pdf"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Powered+App+Builder;Problem+Solver" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/pathangesaipranav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://portfolio-psp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%233b82f6.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://github.com/psp2535"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://portfolio-psp.vercel.app/2023IMT056-PSP.pdf"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
