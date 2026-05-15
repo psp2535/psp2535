@@ -65,46 +65,10 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
 
 ### 💻 Featured Projects
 
-#### 🎓 ABV-IIITM Semester Registration System
-`Apr 2026 – May 2026`
-
-> Developed a full-stack semester registration platform for students, faculty, and administrators.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-- 🔐 **Role-based Auth**: Implemented secure session handling with JWT and protected API routes.
-- 🏗️ **Dynamic Workflows**: Architected course registration with credit validation and backlog management.
-- ⚡ **RESTful APIs**: Integrated course management and registration approval workflows.
-- 📄 **Automation**: Systematized PDF generation, reducing administrative processing time by 40%.
-
-🔗 **[Live Demo](https://portfolio-psp.vercel.app/)** | **[GitHub Repo](https://github.com/psp2535)**
-
-<br>
-
-#### 🤖 BizNova – AI Business Intelligence Platform
-`Oct 2025 – Feb 2026`
-
-> AI-powered business management platform for retailers with real-time inventory and AI insights.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</p>
-
-- 🧠 **AI Insights**: Integrated Google Gemini API for natural language business analytics.
-- 📦 **Real-time Inventory**: Implemented synchronized stock validation across all retailer systems.
-- 📸 **Image Processing**: Streamlined bill-scanning workflows for automated inventory updates.
-- 🌐 **Scalable Backend**: Architected RESTful APIs and MongoDB models for high-concurrency data handling.
-
-🔗 **[Live Demo](https://portfolio-psp.vercel.app/)** | **[GitHub Repo](https://github.com/psp2535)**
+- **ABV-IIITM Semester Registration** – Full-stack platform with JWT Auth & PDF automation.
+  [Demo](https://abviiitm-frontend.onrender.com/) | [GitHub](https://github.com/psp2535/HCI_PROJECT.git)
+- **BizNova** – AI-Powered Business Intelligence platform using MERN & Gemini API.
+  [Demo](https://biznova.onrender.com/) | [GitHub](https://github.com/psp2535/Smart-Kirana)
 
 ---
 
