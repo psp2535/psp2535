@@ -61,7 +61,7 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
     <tr>
       <td colspan="2">
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psp2535&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" width="100%" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=psp2535&theme=tokyonight" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
