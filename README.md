@@ -1,16 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=250&section=header&text=Hi!%20I'm%20Pathange%20Sai%20Pranav%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
+
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Developer;Full+Stack+Developer;Freelancer;Coder;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-    <i>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 🤝 ✨</i>
-  </p>
+
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/Thaiane/Thaiane/main/images/line.gif" width="100%" />
@@ -26,9 +23,24 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
+### ⚡ A little more about me...
 
 I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a focus on creating high-performance web applications and automating complex workflows. I thrive on turning ideas into scalable, user-centric software solutions that solve real-world problems.
+
+```javascript
+const saipranav = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, "C++", Python, HTML, CSS],
+  tools: [React, Node, Express, MongoDB, Tailwind, Prisma, AWS],
+  architecture: ["MERN Stack", "RESTful APIs", "Role-based Auth", "Scalable Systems"],
+  highlights: {
+    hackathons: ["Winner @ AI for All", "Top Performer @ HACKSAGON"],
+    openSource: ["Contributor @ SSOC 2025"],
+    finalist: ["OpenAI x Nxtwave Buildathon"]
+  },
+  focus: "Building AI-powered business intelligence & secure automation platforms"
+}
+```
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-3B82F6?style=for-the-badge&logo=react&logoColor=white" />
@@ -103,5 +115,9 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
 ---
 
 <p align="center">
+  <p align="center">
+    <i>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 🤝 ✨</i>
+  </p>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=100&section=footer" width="100%" />
 </p>
