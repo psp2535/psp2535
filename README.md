@@ -80,7 +80,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psp2535&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="Top Languages" width="48%" />
   </div>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psp2535&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=psp2535&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psp2535&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
+  </div>
   <br><br>
   <h3>🐍 Contributions in the Last Year</h3>
   <picture>
