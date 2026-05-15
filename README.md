@@ -44,15 +44,28 @@ I am a dedicated **Full-Stack Developer** and **Open Source Contributor** with a
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=psp2535&theme=tokyonight&no-frame=true&no-bg=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psp2535&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psp2535&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+  <h3>📊 GitHub Activity Dashboard</h3>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=psp2535&theme=tokyonight&no-frame=true&no-bg=true" width="100%" alt="GitHub Trophies" />
+  <br><br>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=psp2535&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6" width="100%" alt="GitHub Streak" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psp2535&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psp2535&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
