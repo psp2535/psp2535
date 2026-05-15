@@ -82,7 +82,12 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=psp2535&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psp2535&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <h3>🐍 Contributions in the Last Year</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psp2535/psp2535/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psp2535/psp2535/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/psp2535/psp2535/output/dist/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 <br>
