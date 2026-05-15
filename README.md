@@ -15,16 +15,33 @@
 
 ---
 
+### ⚡ My Expertise
 
+I am a passionate **Developer** and **Community Contributor** dedicated to building high-quality software solutions.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-MERN%20Developer-3B82F6?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-3B82F6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Freelancer-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Coder-3B82F6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,postgres,mysql,tailwind,aws,git,github&perline=14&theme=dark" />
-  </a>
-</p>
+
+#### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark" />
+
+#### 🌐 Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
+
+#### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,mysql&theme=dark" />
+
+#### 🔧 Tools & Cloud
+<img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,git,github,postman&theme=dark" />
 
 ---
 
