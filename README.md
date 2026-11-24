@@ -9,6 +9,7 @@
     <a href="mailto:saipranav974@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://leetcode.com/u/Suraj2304/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/saipranav_974"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+    <a href="https://codeforces.com/profile/psp7"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
     <a href="https://github.com/psp2535/psp2535/blob/main/Pathange_Sai_Pranav_Resume.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
   </p>
 </div>
@@ -20,7 +21,7 @@ Int. B.Tech + M.Tech (IT) student at **ABV-IIITM Gwalior** (CGPA 8.45). I build 
 - 🏆 **Grand Finalist**, Adobe University Hackathon 2026 (Top 8 of 80,000+ teams)
 - 🥈 **2nd Place**, AI for All Hackathon 2026 · 🌟 **#1 of 2,600+**, HACKSAGON 2026
 - 📄 **PAKDD 2026** paper: *HiBias*, a media-bias dataset for Hindi
-- 🧠 **Amazon ML Summer School 2026** · ⚔️ [**LeetCode 1590**](https://leetcode.com/u/Suraj2304/) (360+ solved) · [**CodeChef 2★**](https://www.codechef.com/users/saipranav_974)
+- 🧠 **Amazon ML Summer School 2026** · ⚔️ [**LeetCode 1590**](https://leetcode.com/u/Suraj2304/) (360+ solved) · [**CodeChef 2★**](https://www.codechef.com/users/saipranav_974) · [**Codeforces**](https://codeforces.com/profile/psp7)
 
 ### 🚀 Featured Projects
 
