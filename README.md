@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e3a8a,100:3b82f6&height=260&section=header&text=Pathange%20Sai%20Pranav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Competitive%20Programmer&descAlignY=56&descSize=18" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Adobe+University+Hackathon+%E2%80%94+Grand+Finalist+(Top+8+%2F+80K%2B);AI+for+All+Hackathon+2026+%E2%80%94+Winner+(2nd+Place);Published+%40+PAKDD+2026+%F0%9F%93%84;Full-Stack+MERN+%2B+Generative+AI+Developer;Amazon+ML+Summer+School+2026;360%2B+DSA+problems+%E2%80%A2+LeetCode+1567" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Adobe+University+Hackathon+%E2%80%94+Top+8+of+80%2C000%2B;AI+for+All+Hackathon+2026+%E2%80%94+Winner+(2nd+Place);Published+%40+PAKDD+2026+%F0%9F%93%84;Full-Stack+MERN+%2B+Generative+AI+Developer;Amazon+ML+Summer+School+2026;360%2B+DSA+problems+%E2%80%A2+LeetCode+1567" alt="Typing SVG" />
   </a>
 
   <p>
