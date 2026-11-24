@@ -7,6 +7,8 @@
     <a href="https://portfolio-psp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://linkedin.com/in/pathangesaipranav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eiIvPjwvc3ZnPg==" /></a>
     <a href="mailto:saipranav974@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/Suraj2304/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/saipranav_974"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
     <a href="https://github.com/psp2535/psp2535/blob/main/Pathange_Sai_Pranav_Resume.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
   </p>
 </div>
@@ -18,7 +20,7 @@ Int. B.Tech + M.Tech (IT) student at **ABV-IIITM Gwalior** (CGPA 8.45). I build 
 - 🏆 **Grand Finalist**, Adobe University Hackathon 2026 (Top 8 of 80,000+ teams)
 - 🥈 **2nd Place**, AI for All Hackathon 2026 · 🌟 **#1 of 2,600+**, HACKSAGON 2026
 - 📄 **PAKDD 2026** paper: *HiBias*, a media-bias dataset for Hindi
-- 🧠 **Amazon ML Summer School 2026** · ⚔️ **LeetCode 1567** (360+ solved) · **CodeChef 2★**
+- 🧠 **Amazon ML Summer School 2026** · ⚔️ [**LeetCode 1590**](https://leetcode.com/u/Suraj2304/) (360+ solved) · [**CodeChef 2★**](https://www.codechef.com/users/saipranav_974)
 
 ### 🚀 Featured Projects
 
